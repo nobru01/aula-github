@@ -1,0 +1,33 @@
+https://www.youtube.com/watch?v=_hZf1teRFNg
+
+1 - Abrir o git bash na pasta do projeto
+
+2 - git init
+
+3 - git add .
+
+4 - git status
+
+5 - git commit -m "Acrescentado o valor das vendas"
+
+6 -  git branch -M main
+
+7 - criar o repositório no github e passar para a SSH e não https (copiar o comando abaixo)
+
+8 - git remote add origin git@github.com:nobru01/aula-github.git
+
+
+--
+
+depois de modificações:
+1 - git status
+
+2 - git add . 
+
+3 - git status
+
+4 - git commit -m "Acrescentado o valor das vendas"
+
+5 - git push
+
+
